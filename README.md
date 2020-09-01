@@ -5,7 +5,7 @@ Pandas project made in Ironhack Aug '20 cohort.
 ## Objective
 The objective of this project is to demonstrate a hypothesis made about shark attacks. A messy shark attack dataset is received and several data cleaning and data wrangling techniques are applied to this dataset in order to fulfill this objective.
 
-The hypothesis chosen is ``.
+The hypothesis chosen is `In the last century, the top five countries where non-fatal shark attacks to people practising spearfishing in winter have occured are, in this order, Australia, South Africa, New Zealand, Fiji and USA`.
 
 ## Project Structure
 The structure and contents of the project are as follows:
