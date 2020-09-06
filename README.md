@@ -1,5 +1,5 @@
 # shark-attacks
-Pandas project made in Ironhack Aug '20 cohort.
+Pandas project made in Ironhack Data Analytics Aug '20 cohort.
 ![Shark Attack](https://i.guim.co.uk/img/media/a1d0b3fc6d90672ffe41c31e05664cba8e6751a4/0_345_4032_2418/master/4032.jpg?width=1200&quality=85&auto=format&fit=max&s=2b1eaa6288dae997f95a9e7c5d9fcaf2)
 
 ## Objective
